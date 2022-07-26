@@ -5,5 +5,5 @@
 
 #### 📚 My Projects:
 - [Inkstorm](https://inkstorm.app)
-- [Custom Heardle](https://heardle.vrtx.dev)
+- [Custom Heardle](https://heardle.vrtx.dev) (BETA)
 - [Numble](https://numble.vrtx.dev)

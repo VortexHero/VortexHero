@@ -3,6 +3,5 @@
 
 `ʕ　·ᴥ·ʔ`
 
-#### 📚 My Projects:
-- [Inkstorm](https://inkstorm.app)
-- [Numble](https://numble.vrtx.dev)
+#### 📚 Portfolio:
+- [vrtx.dev](https://vrtx.dev)
